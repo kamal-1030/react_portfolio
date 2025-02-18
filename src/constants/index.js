@@ -22,29 +22,29 @@ export const EXPERIENCES = [
     role: "Full stack consultant",
     company: "SPF Finances",
     description: `creat from scratch an application enabling civil servants to define and manage validation rules for the Tax-on-web application`,
-    technologies: ["Angular", "Spring/SpringBoot","MySql","Cucumber","Java"],
+    technologies: ["Angular", "Spring/SpringBoot", "MySql", "Cucumber", "Java"],
   },
   {
     year: "2022 - 2023",
     role: "Full stack consultant",
     company: "European Commission",
     description: `implemented and designed application to monitor legal services in the EU, with specific statuses (in progress, closed, processed) involving complex business processes.`,
-    technologies: ["HTML", "CSS", "Angular", "mySQL","Spring/SpringBoot"],
+    technologies: ["HTML", "CSS", "Angular", "mySQL", "Spring/SpringBoot"],
   },
   {
     year: "2021 - 2022",
     role: "Full Stack consultant",
     company: "Proximus",
     description: `implemented and designed application offers a new way of communicating with the customer by effectively inform him about the past, current and future steps of the process and thus give hm a better view on the complete process and when it will be completed. It's similar to a real metro map`,
-    technologies: ["Angular", "MySql", "HTML", "CSS", "Spring/SpringBoot", "Javascript","Cucumber"],
-  
+    technologies: ["Angular", "MySql", "HTML", "CSS", "Spring/SpringBoot", "Javascript", "Cucumber"],
+
   },
   {
     year: "2019 - 2021",
     role: "Full Stack consultant",
     company: "European Commission",
     description: `Contributed to the development of web applications call CFS stands for Common Financial Services created for various funds in different DGs (DG EMPL, DG HOME). This is a new application for managing financial transactions. It is part of a bigger picture of microservice applications used to handle Shared Fund Mana.`,
-    technologies: ["Angular", "MongoDB","Spring/SpringBoot", "MySql"],
+    technologies: ["Angular", "MongoDB", "Spring/SpringBoot", "MySql"],
   },
   {
     year: "2019 - 2019",
